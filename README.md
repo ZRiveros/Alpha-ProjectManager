@@ -34,7 +34,7 @@ This is a web-based project management tool built using **ASP.NET Core Razor Pag
 ## 📸 Screenshots
 
 ### 🔐 Login
-![Login](Docs/screenshots/login.png)
+![Login](Docs/screenshots/Login.png)
 
 ### 📝 Register
 ![Register](Docs/screenshots/Register.png)
