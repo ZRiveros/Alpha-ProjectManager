@@ -33,7 +33,27 @@ This is a web-based project management tool built using **ASP.NET Core Razor Pag
 
 ## 📸 Screenshots
 
-![Project List](https://github.com/ZRiveros/Alpha/blob/main/docs/screenshot-dashboard.png?raw=true)
+### 🔐 Login
+![Login](Docs/screenshots/login.png)
+
+### 📝 Register
+![Register](Docs/screenshots/Register.png)
+
+### 🧾 Project List
+![Project List](Docs/screenshots/Projectsite.png)
+
+### 🗂️ Filtering by Status
+![Filter Projects](Docs/screenshots/FilteringProjects.png)
+
+### ➕ Add Project
+![Add Project](Docs/screenshots/AddProject.png)
+
+### ✏️ Edit Project
+![Edit Project](Docs/screenshots/EditProject.png)
+
+### 🔓 Logout
+![Logout](Docs/screenshots/Logout.png)
+
 
 ## 🛠️ Setup
 
