@@ -44,25 +44,25 @@ This is a web-based project management tool built using **ASP.NET Core Razor Pag
 ## 🖼️ Screenshots
 
 ### 🔐 Login  
-![Login](Docs/screenshots/Login.png)
+![Login](ProjectManager/Docs/screenshots/Login.png)
 
 ### 📝 Register  
-![Register](Docs/screenshots/Register.png)
+![Register](ProjectManager/Docs/screenshots/Register.png)
 
 ### 📋 Project List  
-![Projects](Docs/screenshots/Projectsite.png)
+![Projects](ProjectManager/Docs/screenshots/Projectsite.png)
 
 ### ➕ Add Project  
-![Add Project](Docs/screenshots/AddProject.png)
+![Add Project](ProjectManager/Docs/screenshots/AddProject.png)
 
 ### ✏️ Edit Project  
-![Edit Project](Docs/screenshots/EditProject.png)
+![Edit Project](ProjectManager/Docs/screenshots/EditProject.png)
 
 ### 🔍 Filtering Projects  
-![Filtering](Docs/screenshots/FilteringProjects.png)
+![Filtering](ProjectManager/Docs/screenshots/FilteringProjects.png)
 
 ### 🚪 Logout  
-![Logout](Docs/screenshots/Logout.png)
+![Logout](ProjectManager/Docs/screenshots/Logout.png)
 
 ---
 
@@ -70,4 +70,4 @@ This is a web-based project management tool built using **ASP.NET Core Razor Pag
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YourUsername/Alpha-ProjectManager.git
+git clone https://github.com/ZRiveros/Alpha-ProjectManager.git
